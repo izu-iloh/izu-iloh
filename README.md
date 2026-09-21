@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/izu-iloh/izu-iloh/blob/main/cybersecurity-banner.png?raw=true" width="100%" alt="Cybersecurity Banner">
+<img src="https://github.com/izu-iloh/izu-iloh/blob/cc09f12efcb9508120ce9e675808398b3c9d95e7/Cybersecurity%20Shield%20in%20Neon%20Networks.png?raw=true" width="100%" alt="Cybersecurity Banner">
 
 <br>
 
