@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Izu-Iloh+%F0%9F%91%8B;Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;Linux+%7C+Networking+%7C+Security;Learning+%7C+Building+%7C+Defending;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Izu-Iloh+%F0%9F%91%8B;A+Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;Linux+%7C+Networking+%7C+Security;Learning+%7C+Building+%7C+Defending;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
 
 </div>
 
